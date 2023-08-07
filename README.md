@@ -3,7 +3,7 @@ Chase Smaker, Computer Engineering Student (2025)
 chasesmaker@vt.edu
 
 ## Repo Link
-<a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
+<!-- <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a> --!>
 
 ## Photo
 
