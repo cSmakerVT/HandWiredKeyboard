@@ -47,7 +47,8 @@ Hands-on experience learning how to 3d model, soldering experience, and programm
 
 ## Useful Links
 
-<!-- Your Text Here. See Example above -->
+http://www.keyboard-layout-editor.com/#/
+http://builder.swillkb.com/
 
 ## Log
 
